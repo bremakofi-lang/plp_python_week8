@@ -1,0 +1,35 @@
+PERSONAL MINI-TOOLKIT PLAN
+===========================
+Selected Tools & Descriptions:
+------------------------------
+
+
+Tool 1: simple caculator
+Description: perform basic arithmetic operation (addition, subtraction, multiplication, division) on two numbers provivded by the user.
+
+Tool 2: Interactive To-Do List
+Description: Allows the user to view, add, and remove tasks dynamically from a list during runtime.
+
+Tool 3: Number Gussing Game
+Description: Generates a secret random number between 1 and 20 and guides the user to guss it with high/low hints until they get it right.
+
+
+Program Menu Text:
+-------------------
+---welcome to the personal Mini-Toolkit! ---
+1.simple calculator
+2.Interactive To-Do List
+3.Number Gussing Game
+4.Quit
+Enter your choice (1-4):
+
+Programming Concepts Used by Each Tool:
+---------------------------------------
+-Tool 1 (simple caculator):
+* Concepts: Conditionals (if/elif/else), f-strings, arithmetic operators, try/except error handing.
+
+-Tool 2 (Interactive To-Do List):
+*Concepts: Lists (adding/removing items with .append() and .pop()), while loop, conditionals, f-strings.
+
+-Tool 3 (Number Gussing Game):
+* Concepts: while loop, random library (random.randint), conditionals, f-strings, variable incrementing (attempts counter).
